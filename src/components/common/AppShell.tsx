@@ -450,7 +450,7 @@ export default function AppShell({
 
   return (
     <>
-      <div className="min-h-screen bg-slate-50 text-slate-950 dark:bg-zinc-950 dark:text-zinc-50 font-sans flex flex-col md:flex-row select-none">
+      <div className="h-screen h-[100dvh] w-full overflow-hidden bg-slate-50 text-slate-950 dark:bg-zinc-950 dark:text-zinc-50 font-sans flex flex-col md:flex-row select-none">
       
       {/* SIDEBAR RAIL - DESKTOP */}
       <aside className="hidden md:flex w-[88px] bg-white border-r border-slate-200 dark:bg-zinc-900 dark:border-zinc-800 flex-col justify-between items-center py-6 px-3 shrink-0 relative z-30">
