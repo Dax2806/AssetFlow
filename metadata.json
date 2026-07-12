@@ -1,6 +1,0 @@
-{
-  "name": "AssetFlow",
-  "description": "Enterprise asset management and utilization dashboard for operations teams.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
