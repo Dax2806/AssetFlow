@@ -1,2 +1,2 @@
 # AssetFlow
-Asset &amp; Resource Management System
+An Intelligent Resource Management System
