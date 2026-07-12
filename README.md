@@ -1,4 +1,4 @@
-# 🚀 AssetFlow – Enterprise Asset & Resource Management System
+# AssetFlow – Enterprise Asset & Resource Management System
 
 > A modern Enterprise Asset & Resource Management System built for the **Odoo India Hackathon**.
 
